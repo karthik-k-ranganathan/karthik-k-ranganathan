@@ -5,9 +5,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Love to play and comment on the Game called cricket.
 - 📫 karthik.k.ranganathan@gmail.com
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karthikkranganathan)
-&nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/karthik-k-ranganathan)
+- [![Linkedin](https://i.sstatic.net/gVE0j.png) karthikkranganathan](https://www.linkedin.com/in/karthikkranganathan)
+- [![GitHub](https://i.sstatic.net/tskMh.png) karthik-k-ranganathan](https://github.com/karthik-k-ranganathan)
 
 <!---
 karthik-k-ranganathan/karthik-k-ranganathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
