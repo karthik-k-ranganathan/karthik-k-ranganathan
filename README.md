@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthik-k-ranganathan
+- 👋 Hi, I’m Karthik Ranganathan
 - 👀 I’m interested in learning new things and experimenting with new technologies
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on ...
