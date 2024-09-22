@@ -5,6 +5,7 @@
 
 - <b>Python</b>
   - [Rock Paper Scissors (Game)](https://github.com/karthik-k-ranganathan/RockPaperScissors)
+- <b>Data Science</b>
 
 <h2> 🤳 Connect with me:</h2>
 <h4>💞️ I’m looking to collaborate with like minded people to share and learn new ideas on technology ...</h4><br/>
