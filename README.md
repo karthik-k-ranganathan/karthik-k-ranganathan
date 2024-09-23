@@ -1,4 +1,4 @@
-<h1>Hi, 👋 I'm Karthik Ranganathan... <br/><a href="https://github.com/karthik-k-ranganathan">Programmer</a>, <a href="https://www.linkedin.com/in/karthikkranganathan/">Manager</a></h1>
+<h1>Hi, 👋 I'm Karthik Ranganathan... <br/><a href="https://github.com/karthik-k-ranganathan">Developer</a>, <a href="https://www.linkedin.com/in/karthikkranganathan/">Manager</a></h1>
 <h4>My hobbies are to learn new things 👀 and experimenting with new technologies. I have shared few samples below.</h4>
 
 <h2>✨ Software Development Projects:</h2>
